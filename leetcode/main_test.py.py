@@ -1,5 +1,5 @@
 import unittest
-from leetcode import is_palindrome, fibonacci
+from main import is_palindrome, fibonacci
 
 class TestLeetCode(unittest.TestCase):
     def test_is_palindrome(self):
